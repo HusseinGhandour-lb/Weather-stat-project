@@ -5,8 +5,8 @@ import csv
 import os
 
 #api key and a url to test the countries
-url_test = 'http://api.openweathermap.org/data/2.5/weather?q=france,&appid=69d023182d7ca5fe26c94743b6168acc&units=metric'
-API_KEY = "69d023182d7ca5fe26c94743b6168acc"
+url_test = 'http://api.openweathermap.org/data/2.5/weather?q=france,&appid=&units=metric'
+API_KEY = ""
 
 #countries to extracts it data
 countries = {'europe':['france','england','germany'],
