@@ -1,0 +1,11 @@
+,
+             'north_america':['usa','canada','mexico'],
+             'south_america':['brazil','argentina','chile'],
+             'east_aisa':['china', 'japan', 'singapore'],
+             'midle_east':['lebanon','iraq','syria'],
+             'arabian_gulf':['yeman','qatar','uae'],
+             'north_africa':['eygpt','algeria','morocco'],
+             'africa':['gabon','ghana','nigeria']
+
+             ,
+             'north_europe':['sweden','norway','finland']
